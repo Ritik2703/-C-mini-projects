@@ -5,26 +5,48 @@ I’ve enlisted all the mini-projects, projects, games, software and application
 
 he C projects softwares enlisted below are mini projects, mini games, and small applications. Most of these projects utilize functions, file handling, and data structure effectively. Try to analyze and understand the source code of these projects, and you’ll learn how to add, modify, view, search and delete data using file to create a similar project.
 
-Bank Management System
-Calendar Application
-Contact Management System
-Cricket Score Sheet
-Customer Billing System
-Cyber Management System
-Department Store Management System
-Employee Record System
-Hangman Game
-Hospital Management System
-Library Management System
-Medical Store Management System
-Modern Periodic Table
-Pacman Game
-Personal Diary Management System
-Phonebook Application
-Quiz Game
-School Billing System
-Snake Game
-Student Record System
-Telecom Billing System
-Tic-Tac-Toe Game
-Typing Tutor
+1. Bank Management System
+
+2. Calendar Application
+
+3. Contact Management System
+
+4. Cricket Score Sheet
+
+5. Customer Billing System
+
+6. Cyber Management System
+
+7. Department Store Management System
+
+8. Employee Record System
+
+9. Hangman Game
+
+10. Hospital Management System
+
+11.Library Management System
+
+12. Medical Store Management System
+
+13. Modern Periodic Table
+
+14. Pacman Game
+
+15. Personal Diary Management System
+
+16. Phonebook Application
+
+17. Quiz Game
+
+18. School Billing System
+
+19. Snake Game
+
+20. Student Record System
+
+21. Telecom Billing System
+
+22. Tic-Tac-Toe Game
+
+23. Typing Tutor
